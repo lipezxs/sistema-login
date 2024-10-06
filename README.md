@@ -1,13 +1,13 @@
 # Sistema de Login
 
-<img style="height: 450px;" src="src/img/ilustracao.png" alt="">
-<img style="height: 450px;" src="src/img/ilustracao2.png" alt="">
+<!-- <img style="height: 450px;" src="src/img/ilustracao.png" alt="">
+<img style="height: 450px;" src="src/img/ilustracao2.png" alt=""> -->
 
-<p>Este é um projeto simples de um **Sistema de Login** realizado em ReactJS contendo Autenticação, Context API, e Hooks.</p> <br/>
+<p>Este é um projeto simples de um Sistema de Login realizado em ReactJS contendo Autenticação, Context API, e Hooks.</p> <br/>
 
 ## Funcionalidades
 
-- **Login de usuário**: Permite que o usuário entre no sistema utilizando E-mail de usuário e senha. <br/>
+- **Login de usuário**: Permite que o usuário entre no sistema utilizando E-mail de usuário e senha. 
 - **Registro de usuário**: Usuários podem se cadastrar criando um novo perfil. <br/>
 - **Mensagens de erro**: Exibe mensagens claras ao usuário em caso de falha na autenticação ou campos obrigatórios não preenchidos. <br/>
 
